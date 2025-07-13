@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "cd ../client && npm install && npm run build"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "socket.io": "^4.8.1"
+    
+  }
+}

@@ -1,0 +1,28 @@
+.guide-container {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.guide-content {
+  max-width: 420px;
+  text-align: center;
+}
+
+.guide-title {
+  color: #0097a7;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+}
+
+.guide-desc {
+  color: #007c91;
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.guide-note {
+  color: #0097a7;
+  font-weight: 600;
+}

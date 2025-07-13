@@ -1,0 +1,29 @@
+.notfound-container {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.notfound-content {
+  max-width: 420px;
+  text-align: center;
+}
+
+.notfound-title {
+  color: #0097a7;
+  font-weight: 900;
+  font-size: 5rem;
+  margin-bottom: 1rem;
+}
+
+.notfound-desc {
+  color: #007c91;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.notfound-note {
+  color: #0097a7;
+  font-weight: 600;
+}

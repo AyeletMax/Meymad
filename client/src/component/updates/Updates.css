@@ -1,0 +1,29 @@
+/* filepath: c:\Users\sba20\Desktop\finalProject-Mimad\client\src\component\updates\Updates.css */
+.updates-container {
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.updates-content {
+  max-width: 420px;
+  text-align: center;
+}
+
+.updates-title {
+  color: #0097a7;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+}
+
+.updates-desc {
+  color: #007c91;
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.updates-note {
+  color: #0097a7;
+  font-weight: bold;
+}
